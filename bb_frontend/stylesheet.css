@@ -1,0 +1,52 @@
+body {
+    background-image: url("background.png");
+    background-color: #000000;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+#form-control {
+    width: 600px;
+    margin: auto;
+}
+
+#container {
+    width: 1349px;
+    font-family: rockwell;
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    height: 736px;
+}
+
+h3 {
+    color: #E9E7E8;
+}
+
+#header {
+    font-family: impact;
+    text-align: center;
+    letter-spacing: 0.2em;
+}
+
+.image {
+    margin: 0 auto;
+}
+
+#copyright {
+    color: #E9E7E8;
+    text-align: right;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-right: -70px;
+}
+
+#searchbar {
+    width: 800px;
+    margin: auto;
+    text-align: center;
+    background-color: #white;
+}
